@@ -43,7 +43,7 @@ set.seed(123) ## to ensure randomly generated data remains the same
 ```
 
 ```{r Setting Working Directory,  message=FALSE}
-setwd("C:/Users/Probook/iCloudDrive/ClassBizAnaBigD/Semester2/BU52023_Forecasting for Business and Finance/Assessment")
+setwd("")
 
 #getwd()
 ```
